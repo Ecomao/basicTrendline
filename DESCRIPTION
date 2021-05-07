@@ -7,7 +7,8 @@ Authors@R: c(
 		person("Guangchuang", "Yu",     email = "guangchuangyu@gmail.com", role = c("aut"), comment = c(ORCID = "0000-0002-6485-8781")),
 		person("Jiangshan", "Lai", role = c("ctb")),
 		person("Qiang", "Rao",   role = "ctb"),
-		person("Yu", "Umezawa",  role = "ctb")
+		person("Yu", "Umezawa",  role = "ctb"),
+		person("Zhendu", "Mao", role="ctb")
 	   )
 Maintainer: Weiping Mei <meiweipingg@163.com>
 Description: Plot, draw regression line and confidence interval, and show regression equation, R-square and P-value,  as simple as possible, by using different models ("line2P", "line3P", "log2P", "exp2P", "exp3P", "power2P", "power3P") built in the 'trendline()' function.
